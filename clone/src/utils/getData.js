@@ -5,8 +5,8 @@ axios.defaults.baseURL = "https://yt-api.p.rapidapi.com";
 const options = {
   params: { geo: "TR", lang: "tr" },
   headers: {
-    "X-RapidAPI-Key": "3e237f7b28msh60fdbf57de54c2fp1da8ccjsn81341a7c856b",
-    "X-RapidAPI-Host": "yt-api.p.rapidapi.com",
+    "X-RapidAPI-Key": "",
+    "X-RapidAPI-Host": "",
   },
 };
 
